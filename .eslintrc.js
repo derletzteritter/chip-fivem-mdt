@@ -25,6 +25,7 @@ module.exports = {
       'no-var': 'error',
       'brace-style': 'error',
       'prefer-template': 'error',
+      'prettier/prettier': 0,
       radix: 'error',
       'space-before-blocks': 'error',
       'import/prefer-default-export': 'off',
